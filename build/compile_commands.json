@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ensta/IN104/Projet/build",
+  "command": "g++-10   -I/home/ensta/IN104/Projet/repository/inc  -g   -Wall -Wextra -std=c++20 -g -std=c++2a -o CMakeFiles/sfml-app.dir/src/checkpoint.cpp.o -c /home/ensta/IN104/Projet/repository/src/checkpoint.cpp",
+  "file": "/home/ensta/IN104/Projet/repository/src/checkpoint.cpp"
+},
+{
+  "directory": "/home/ensta/IN104/Projet/build",
+  "command": "g++-10   -I/home/ensta/IN104/Projet/repository/inc  -g   -Wall -Wextra -std=c++20 -g -std=c++2a -o CMakeFiles/sfml-app.dir/src/compteur.cpp.o -c /home/ensta/IN104/Projet/repository/src/compteur.cpp",
+  "file": "/home/ensta/IN104/Projet/repository/src/compteur.cpp"
+},
+{
+  "directory": "/home/ensta/IN104/Projet/build",
+  "command": "g++-10   -I/home/ensta/IN104/Projet/repository/inc  -g   -Wall -Wextra -std=c++20 -g -std=c++2a -o CMakeFiles/sfml-app.dir/src/game.cpp.o -c /home/ensta/IN104/Projet/repository/src/game.cpp",
+  "file": "/home/ensta/IN104/Projet/repository/src/game.cpp"
+},
+{
+  "directory": "/home/ensta/IN104/Projet/build",
+  "command": "g++-10   -I/home/ensta/IN104/Projet/repository/inc  -g   -Wall -Wextra -std=c++20 -g -std=c++2a -o CMakeFiles/sfml-app.dir/src/main.cpp.o -c /home/ensta/IN104/Projet/repository/src/main.cpp",
+  "file": "/home/ensta/IN104/Projet/repository/src/main.cpp"
+},
+{
+  "directory": "/home/ensta/IN104/Projet/build",
+  "command": "g++-10   -I/home/ensta/IN104/Projet/repository/inc  -g   -Wall -Wextra -std=c++20 -g -std=c++2a -o CMakeFiles/sfml-app.dir/src/pod.cpp.o -c /home/ensta/IN104/Projet/repository/src/pod.cpp",
+  "file": "/home/ensta/IN104/Projet/repository/src/pod.cpp"
+},
+{
+  "directory": "/home/ensta/IN104/Projet/build",
+  "command": "g++-10   -I/home/ensta/IN104/Projet/repository/inc  -g   -Wall -Wextra -std=c++20 -g -std=c++2a -o CMakeFiles/sfml-app.dir/src/utils.cpp.o -c /home/ensta/IN104/Projet/repository/src/utils.cpp",
+  "file": "/home/ensta/IN104/Projet/repository/src/utils.cpp"
+}
+]
